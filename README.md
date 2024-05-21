@@ -51,16 +51,17 @@ streamlit dashboard, ensuring the displayed information is up-to-date and accura
 
 •	Numerous dropdown options for users to select various facts and figures to display.
 
-  o	Transaction/Registered Users/AppOpens Analysis
-  
-  o	State/District/Pincode/Brand Specific Insights
-  
-  o	Yearwise Trend
-  
-  o	Top and Bottom Players
-  
+    o	Transaction/Registered Users/AppOpens Analysis
+    
+    o	State/District/Pincode/Brand Specific Insights
+    
+    o	Yearwise Trend
+    
+    o	Top and Bottom Players
+    
   
 **Conclusion:**
+
  The PhonePe Pulse data visualization Dashboard aims to provide valuable business insights and data-driven decisions by quick and easy visualization of critical information and market rich and grey identification.
 
 
