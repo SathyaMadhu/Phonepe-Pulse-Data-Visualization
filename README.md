@@ -1,6 +1,8 @@
 **Phonepe Pulse Data Visualization and Exploration:A User-Friendly Tool Using Streamlit and Plotly**
 
-Requirements/Problem Statement : The Phonepe pulse Github repository contains a large amount of data related to
+**Requirements/Problem Statement : **
+
+The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics. The goal is to extract this data and process it to obtain
 insights and information that can be visualized in a user-friendly manner
 
@@ -8,6 +10,7 @@ insights and information that can be visualized in a user-friendly manner
 •	Data Extraction:  Python Scripts and Git hub Cloning
 •	Data Processing: Python, Pandas
 •	Database Integration: MySQL, mysql-connector-python
+
 •	Dashboard: Streamlit, Plotly (Live Geo Visualizations and other Charts)
 
 **Python Libraries Engaged:**
