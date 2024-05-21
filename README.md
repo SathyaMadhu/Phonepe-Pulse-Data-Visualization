@@ -19,13 +19,21 @@ insights and information that can be visualized in a user-friendly manner
 **Python Libraries Engaged:**
 
 •	PATHLIB
+
 •	PANDAS
+
 •	JSON 
+
 •	OS
+
 •	MYSQL.CONNECTOR
+
 •	REQUESTS
+
 •	STREAMLIT
+
 •	STREAMLIT_OPTION_MENU  OPTION_MENU
+
 •	PLOTLY.EXPRESS
 
 
