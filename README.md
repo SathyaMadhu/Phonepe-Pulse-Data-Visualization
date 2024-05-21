@@ -7,8 +7,11 @@ various metrics and statistics. The goal is to extract this data and process it 
 insights and information that can be visualized in a user-friendly manner
 
 **Technologies employed:**
+
 •	Data Extraction:  Python Scripts and Git hub Cloning
+
 •	Data Processing: Python, Pandas
+
 •	Database Integration: MySQL, mysql-connector-python
 
 •	Dashboard: Streamlit, Plotly (Live Geo Visualizations and other Charts)
