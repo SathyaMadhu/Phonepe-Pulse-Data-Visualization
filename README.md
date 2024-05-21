@@ -31,33 +31,33 @@ insights and information that can be visualized in a user-friendly manner
 
 **Steps Involved**:
 
-**Data Extraction** : Python scripts were employed to clone and extract data/datasets from the Phonepe pulse Github repository 
-
-**Data Processing**   : Obtained data were processed for necessary cleaning and formatting, to attain the defined structure for further analysis. 
-
-**Data Transformation** : The Processed and structured data were inserted into a **MySQL database** for efficient storage and retrieval capabilities.
-
-**Dashboard Creation**  : Streamlit and Plotly libraries are used to create an interactive and visually pleasing dashboard. This dashboard presents the data in efficient manner which 
-enable users to explore the insights effectively
-
-**Database Integration** : The relevant data are fetched from the MySQL database and converted in to pandas dataframe using pandas libraries. Those dataframe were integrated into the 
-streamlit dashboard, ensuring the displayed information is up-to-date and accurate.
-
+  **Data Extraction** : Python scripts were employed to clone and extract data/datasets from the Phonepe pulse Github repository 
+  
+  **Data Processing**   : Obtained data were processed for necessary cleaning and formatting, to attain the defined structure for further analysis. 
+  
+  **Data Transformation** : The Processed and structured data were inserted into a **MySQL database** for efficient storage and retrieval capabilities.
+  
+  **Dashboard Creation**  : Streamlit and Plotly libraries are used to create an interactive and visually pleasing dashboard. This dashboard presents the data in efficient manner which 
+  enable users to explore the insights effectively
+  
+  **Database Integration** : The relevant data are fetched from the MySQL database and converted in to pandas dataframe using pandas libraries. Those dataframe were integrated into the 
+  streamlit dashboard, ensuring the displayed information is up-to-date and accurate.
+  
 **Output Includes :**
 
-•	Visually appealing and interactive dashboard using Streamlit and Plotly.
-
-•	Vibrant data updates on the dashboard based on user choices.
-
-•	Numerous dropdown options for users to select various facts and figures to display.
-
-    o	Transaction/Registered Users/AppOpens Analysis
-    
-    o	State/District/Pincode/Brand Specific Insights
-    
-    o	Yearwise Trend
-    
-    o	Top and Bottom Players
+  •	Visually appealing and interactive dashboard using Streamlit and Plotly.
+  
+  •	Vibrant data updates on the dashboard based on user choices.
+  
+  •	Numerous dropdown options for users to select various facts and figures to display.
+  
+      o	Transaction/Registered Users/AppOpens Analysis
+      
+      o	State/District/Pincode/Brand Specific Insights
+      
+      o	Yearwise Trend
+      
+      o	Top and Bottom Players
     
   
 **Conclusion:**
